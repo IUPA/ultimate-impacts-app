@@ -242,7 +242,7 @@ blockquote::after {
 	
 }
 
-
+/*
 
 #knack-body {
 	z-index: 0;
@@ -255,7 +255,7 @@ blockquote::after {
 	margin-right: 0px;
 }
 
-/*
+
 
 @media screen and (min-width: 769px) and (max-width: 2000px) {
 .kn-container {
@@ -381,7 +381,7 @@ h5 {
 }
 
 h6 {
-	font-size: 12px !important;
+	font-size: 12px;
 	font-family: 'ubuntu', Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;
   padding-top: 0px !important;
   padding-bottom: 0px !important;
