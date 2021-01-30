@@ -396,11 +396,11 @@ h6 {
 /*	3. BUTTONS
 /* -------------------------------------------------------------------------- */
 
-#view_48 .kn-menu .kn-button {
-   margin: 15px !important;
-font-size: larger !important;
-font-weight: bold !important;
-color: #006d07 !important;}
+.kn-menu .kn-button {
+   margin: 18px;
+font-size: larger;
+font-weight: bold ;
+}
 
 
 /* -------------------------------------------------------------------------- */
