@@ -255,6 +255,7 @@ blockquote::after {
 	margin-right: 0px;
 }
 
+/*
 
 @media screen and (min-width: 769px) and (max-width: 2000px) {
 .kn-container {
@@ -268,6 +269,8 @@ min-height: 350px;}
 
 }
 }
+
+*/
 
 #offline { z-index: 1;
 	position: relative;
